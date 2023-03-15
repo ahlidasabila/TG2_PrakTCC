@@ -1,0 +1,140 @@
+.header{
+    position:absolute; 
+    left:0; 
+    right:0; 
+    background-color: #04013d; 
+    font-family: "Cooper Black";
+}
+nav{
+    position: relative;
+    background-color: #bed6d0;
+    top: 90px;
+    height: 40px;
+    font-size: 14px;
+}
+.logout{
+    background-color: #04013d;
+    font-size: 12px;
+}
+.welcome{
+    position: relative;
+    top: 200px;
+    font-family: "Calibri";
+}
+.name{
+    position: relative;
+    top: 250px;
+    font-family: "Calibri";
+    color: #0a0391;
+}
+.kategori{
+    position: absolute;
+    top: 27px;
+    border: 0px;
+    border-radius: 0px;
+    background-color:  #bed6d0;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    background-color:  #04013d;
+    
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 400x;
+margin-top: 200px;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+width: 440px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color:  #04013d;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h3{
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color:   #04013d;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+
+.login_btn{
+color: white;
+background-color:  #04013d;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
+
+.tambah{
+    position: relative;
+    left: 15px;
+    top: 100px;
+    background-color: #04013d;
+}
+
+.content{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-size: 12px;
+    width: 1150px;
+}
+
+.table-body{
+    border: 1px solid #04013d;
+}
+
+.tombol{
+    background-color: #04013d;
+    font-size: 13px;
+    border-radius: 2px;
+}
